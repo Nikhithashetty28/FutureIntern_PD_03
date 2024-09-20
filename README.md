@@ -1,6 +1,8 @@
 # FutureIntern_PD_03
 
 Rock, Paper, Scissors Game
+
+
 Developed a simple yet engaging console-based Rock, Paper, Scissors game using Python. This project allows users to play against a computer opponent, enhancing their programming skills while providing an entertaining experience.
 
 Key Features:
